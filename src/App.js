@@ -66,8 +66,7 @@ const Button = (props) => {
     	{button}
       <br /><br />
       <button className="btn btn-warning btn-sm" onClick={props.redraw}
-      	disabled={props.redraws < 1}
-      >
+      	disabled={props.redraws < 1}>
       	<i className="fa fa-refresh"></i>{props.redraws}
       </button>
     </div>
