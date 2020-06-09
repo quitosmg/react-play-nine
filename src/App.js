@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+git import React, { Component } from 'react';
 import './App.css';
 import _ from '../node_modules/lodash';
 import 'bootstrap/dist/css/bootstrap.min.css';
